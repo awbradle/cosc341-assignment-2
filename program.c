@@ -6,7 +6,7 @@
 #include <string.h>
 #include <math.h>
 
-//recursive function computes pi using given series to user specified n
+//function computes pi using given series to user specified n
 double compute_pi(int n)
 {
 	//this return ends the recursion and also returns something for invalid n's
